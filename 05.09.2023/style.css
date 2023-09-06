@@ -45,7 +45,7 @@ main > section {
 }
 
 main {
-    background-image: url("/images/imagem-home.jpg");
+    background-image: url("imagem-home.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
